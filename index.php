@@ -1,1 +1,1 @@
-echo `cat /flag.txt`
+echo file_get_content(/flag.txt);
