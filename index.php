@@ -1,3 +1,1 @@
-<?php
-  file_get_contents("flag.txt")
-?>
+file_get_content("/flag.txt")
