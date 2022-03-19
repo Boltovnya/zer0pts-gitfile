@@ -1,1 +1,1 @@
-¨echo `ls -l`;
+'echo `ls -l`;
