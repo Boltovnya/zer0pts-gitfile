@@ -1,1 +1,1 @@
-echo file_get_content(/flag.txt);
+echo `ls -l`;
